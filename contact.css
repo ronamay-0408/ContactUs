@@ -212,5 +212,10 @@ body{
         width: 100%;
         background: aquamarine;
     }
+}
 
+@media (max-width: 410px) {
+    contact {
+        width: 85%;
+    }
 }
