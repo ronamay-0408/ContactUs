@@ -33,7 +33,7 @@ body{
     grid-area: map;
 }
 .contact{
-   padding: 40px;
+   padding: 20px;
    background: #fff;
    box-shadow: 0 5px 35px rgba(0,0,0,0.15);
 }
@@ -168,7 +168,7 @@ body{
 
 @media (max-width: 991px) {
     .contactUs{
-        padding: 20px;
+        padding: 10px;
     }
     .box {
         grid-template-columns: 1fr;
@@ -193,4 +193,24 @@ body{
     .contact {
         padding: 20px;
     }
+}
+
+@media (max-width: 315px) {
+    .infoBox{
+        font-size: 0.9rem;
+    }
+    .contact {
+        width: 100%;
+    }
+    .inputBox {
+        width: 100%;
+    }
+    .formBox .row100 .inputBox {
+        width: 100%;
+    }
+    .formBox {
+        width: 100%;
+        background: aquamarine;
+    }
+
 }
