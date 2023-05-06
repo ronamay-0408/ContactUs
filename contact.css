@@ -156,3 +156,14 @@ form{
     height: 100%;
 }
 
+@media (max-width: 412px) {
+    .info {
+        width: 300px;
+    }
+    .contact_form {
+        width: 300px;
+    }
+    .inputBox input {
+        width: 30vh;
+    }
+}
