@@ -12,7 +12,7 @@ body{
     text-align: center;
     padding-top: 20px;
     font-size: 1.5rem;
-    color: #a78686;
+    color: #0bcca5;
 }
 .box{
     padding: 10px;
@@ -158,12 +158,12 @@ form{
 
 @media (max-width: 412px) {
     .info {
-        width: 300px;
+        width: 360px;
     }
     .contact_form {
-        width: 300px;
+        width: 360px;
     }
     .inputBox input {
-        width: 30vh;
+        width: 36vh;
     }
 }
