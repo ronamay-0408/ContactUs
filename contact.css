@@ -200,7 +200,7 @@ body{
         font-size: 0.9rem;
     }
     .contact {
-        width: 100%;
+        width: 90%;
     }
     .inputBox {
         width: 100%;
@@ -211,11 +211,5 @@ body{
     .formBox {
         width: 100%;
         background: aquamarine;
-    }
-}
-
-@media (max-width: 410px) {
-    contact {
-        width: 100%;
     }
 }
