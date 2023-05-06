@@ -216,6 +216,6 @@ body{
 
 @media (max-width: 410px) {
     contact {
-        width: 85%;
+        width: 100%;
     }
 }
